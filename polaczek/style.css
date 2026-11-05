@@ -1,0 +1,17 @@
+table{
+    width: 50%;
+    border: 1px;
+    border-color: darkgreen;
+    border-style: dashed;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+td,th{
+    padding: 5px;
+}
+
+tr:hover{
+    background-color: darkgreen;
+    color: white;
+}
